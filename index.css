@@ -1,0 +1,78 @@
+.leftdiv{
+    width: 350px;
+    height: 500px;
+    text-align: center;
+    margin-left: 150px;
+}
+
+.logoimage{
+    width: 40px;
+    margin-left: -280px;
+}
+
+.rightdiv{
+margin-left: 1100px;
+margin-top: -500px;
+}
+
+.rightlink{
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+}
+
+.rightbutton{
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    height: 30px;
+    border-radius: 3px;
+    border-style: none;
+    width: 70px;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.logininput{
+    width: 280px;
+    height: 40px;
+    border-radius: 3px;
+    outline: none;
+}
+
+.forgot{
+    margin-left: 90px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: small;
+}
+
+p{
+    font-size: small;
+}
+
+.loginbutton{
+    width: 280px;
+    height: 30px;
+    border-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: darkblue;
+    border-radius: 3px;
+}
+
+.handimage{
+    margin-left: 650px;
+    margin-top: -320px;
+}
